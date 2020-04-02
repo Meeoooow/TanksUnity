@@ -1,2 +1,2 @@
 # TanksUnity
-Game Tanks
+Game Tanks for 2 player
